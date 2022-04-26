@@ -1,5 +1,5 @@
 {
-  "vershion":"01",
-  "auther":"hridoy"
+  "vershion": 01,
+  "auther": "hridoy"
 
 },
